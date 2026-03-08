@@ -1,19 +1,91 @@
-<h1 align="center">Hi 👋, I'm Adnan</h1>
-<h3 align="center">Coding, Aviation, and Music: A Fusion of Passion and Innovation in One Repository</h3>
+<h1 align="center">Adnan Hayat</h1>
+<h3 align="center">Data Engineer | Cloud Data Platforms | Distributed Data Processing</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adnan-hayat3" alt="adnan-hayat3" /></a> </p>
-
-- 🌱 I’m currently learning **JS, Python, ReactJS.**
-
-- 📫 How to reach me **adnanhayat3720@gmail.com**
-
-- ⚡ Fun fact **I play an instrument called the "Rubab" 👀**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/adnanhayat26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/adnanhayat26/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/adnanhayat37201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@adnanhayat37201" height="30" width="40" /></a>
+<p align="center">
+Designing scalable data pipelines and modern cloud-based data platforms using AWS, Azure, PySpark, and Airflow.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+<p align="center">
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+<img src="https://github-profile-trophy.vercel.app/?username=adnan-hayat3&theme=flat&no-frame=true&margin-w=10" alt="adnan-hayat3" />
+</a>
+</p>
+
+---
+
+### Professional Focus
+
+- Designing **ETL / ELT pipelines** for large-scale data processing  
+- Building **cloud-based data platforms** on AWS and Azure  
+- Implementing **Medallion Architecture (Bronze / Silver / Gold)**  
+- Optimizing **PySpark workloads and distributed data transformations**  
+- Orchestrating pipelines using **Apache Airflow**  
+- Developing **analytics-ready datasets for data warehouses**
+
+---
+
+### Areas of Interest
+
+- Distributed data systems  
+- Data platform architecture  
+- Scalable data pipelines  
+- Data warehouse modernization  
+- Cloud data engineering
+
+---
+
+### Connect
+
+<p align="left">
+<a href="https://linkedin.com/in/adnanhayat26" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+</a>
+
+<a href="mailto:adnanhayat3720@gmail.com">
+<img align="center" src="https://cdn-icons-png.flaticon.com/512/561/561127.png" alt="email" height="30" width="40"/>
+</a>
+</p>
+
+---
+
+### Languages
+
+<p align="left">
+<a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
+<a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/></a>
+<a href="https://isocpp.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/></a>
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/></a>
+</p>
+
+---
+
+### Data Engineering & Cloud
+
+<p align="left">
+<a href="https://aws.amazon.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" height="40"/></a>
+<a href="https://azure.microsoft.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="40" height="40"/></a>
+<a href="https://spark.apache.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" width="40" height="40"/></a>
+<a href="https://airflow.apache.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original-wordmark.svg" width="40" height="40"/></a>
+</p>
+
+---
+
+### Databases
+
+<p align="left">
+<a href="https://www.postgresql.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40"/></a>
+<a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/></a>
+<a href="https://www.microsoft.com/en-us/sql-server"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" height="40"/></a>
+</p>
+
+---
+
+### GitHub Activity
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=adnan-hayat3&show_icons=true&theme=default" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=adnan-hayat3" />
+</p>
